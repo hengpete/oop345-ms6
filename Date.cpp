@@ -5,7 +5,6 @@ using namespace std;
 #include "Date.h"
 #include "POS.h"
 
-
 namespace ict {
   void Date::set() {
     time_t t = time(NULL);
